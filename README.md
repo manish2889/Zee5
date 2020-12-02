@@ -10,6 +10,22 @@
 - [x] Originals
 - [x] Music
   
+# Requirements:
+
+   - [x] Ruby
+   - [x] Nokogiri
+   
+# Usage:
+
+   * gem install Zee5
+   
+   * open irb(ruby shell)
+   
+   * import Zee5 gem in irb by calling - (require 'Zee5')
+   
+   * Zee.m3u8("<url from Zee5>")
+      It will return m3u8 within 2 seconds depends on your network
+ 
 # Group:
 
  feel free join our Whatsapp Group https://chat.whatsapp.com/DeeyFu3OGG438qgJYrgX7f
@@ -21,5 +37,4 @@
 
 | Version |          |
 | ------- |----------|
-| v2.0.6  |    ✅    |
-| v2.0.5  |    ❌    |
+| v1.2.0  |    ✅    |
