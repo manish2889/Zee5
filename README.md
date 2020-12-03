@@ -17,9 +17,9 @@
    - [x] libxslt
 # Usage:
 
-    For further info 
+    For further info read docs below
         
-   https://rubygems.org/gems/Zee5
+   [Documentation for V1.2.1](https://www.rubydoc.info/gems/Zee5/1.2.1)
         
    * gem install Zee5 (still in beta)
    
@@ -41,4 +41,4 @@
 
 | Version |          |
 | ------- |----------|
-| v1.2.0  |    ✅    |
+| v1.2.1  |    ✅    |
