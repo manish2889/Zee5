@@ -17,6 +17,10 @@
    
 # Usage:
 
+    For further info 
+        
+   https://rubygems.org/gems/Zee5
+        
    * gem install Zee5
    
    * open irb(ruby shell)
