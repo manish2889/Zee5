@@ -23,7 +23,7 @@
    
    * import Zee5 gem in irb by calling - (require 'Zee5')
    
-   * Zee.m3u8("<url from Zee5>")
+   * Zee.m3u8("paste url from Zee5")
       It will return m3u8 within 2 seconds depends on your network
  
 # Group:
