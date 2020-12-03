@@ -14,14 +14,14 @@
 
    - [x] Ruby
    - [x] Nokogiri
-   
+   - [x] libxslt
 # Usage:
 
     For further info 
         
    https://rubygems.org/gems/Zee5
         
-   * gem install Zee5
+   * gem install Zee5 (still in beta)
    
    * open irb(ruby shell)
    
