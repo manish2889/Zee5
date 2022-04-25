@@ -24,6 +24,8 @@
   
  It will effectively decrypt https traffic in Via browser.
  
+ ![Screenshot_20220425-211157_Termux](https://user-images.githubusercontent.com/62318734/165124497-b0c52136-174d-4ba7-9d5a-f7bcdf8363dc.png)
+
 
 ## Features:
 
