@@ -22,7 +22,7 @@
    2. recompile
    3. sign
   
- It will effectively decrypt https traffic in Via browser.
+ It will effectively decrypt https traffic in Via browser. This is applicable for all apps
  
  
 
