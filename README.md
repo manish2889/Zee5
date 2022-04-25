@@ -25,6 +25,22 @@
  It will effectively decrypt https traffic in Via browser. This is applicable for all apps
  
  
+# Method  
+   __using httpcanary__
+   1. Goto httpcanary app setting
+   2. export certificate as pem file
+   3. move pem file to termux
+   4. modify http status code always return 200
+      
+
+        
+   ![20220425_222318](https://user-images.githubusercontent.com/62318734/165136864-9a502c87-d3a2-4339-a1d1-294d43ccb43c.png)
+       ![20220425_222338](https://user-images.githubusercontent.com/62318734/165136922-b88491bd-5a87-47f7-a2c7-1c72fe58bc0e.png)
+       ![Screenshot_20220425-222924_Termux](https://user-images.githubusercontent.com/62318734/165137508-aa60ed45-3590-45cf-a330-6f79b1d1a248.png)
+       
+
+       
+   
 
 ## Features:
 
