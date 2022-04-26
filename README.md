@@ -24,6 +24,8 @@
   
  It will effectively decrypt https traffic in Via browser. This is applicable for all apps
  
+ 
+ 
  # sample:
    __DuckDuckGo__
     
@@ -83,7 +85,12 @@ https://user-images.githubusercontent.com/62318734/165276727-5b50a4c0-43ef-4b19-
    2. export certificate as pem file
    3. move pem file to termux
    4. modify http status code always return 200
-      
+
+# Reference:
+   [![](https://i.ytimg.com/vi/I3pNLB3Cq24/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpgnL8XcJuCKehRbmlALs4IARXIg)](https://www.youtube.com/watch?v=4OztMJ4EL1s "Watch")
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ![20220425_222318](https://user-images.githubusercontent.com/62318734/165136864-9a502c87-d3a2-4339-a1d1-294d43ccb43c.png)
 ![20220425_222338](https://user-images.githubusercontent.com/62318734/165136922-b88491bd-5a87-47f7-a2c7-1c72fe58bc0e.png)
