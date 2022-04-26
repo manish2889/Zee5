@@ -24,6 +24,14 @@
   
  It will effectively decrypt https traffic in Via browser. This is applicable for all apps
  
+ # sample:
+   __DuckDuckGo__
+    
+
+https://user-images.githubusercontent.com/62318734/165259350-2cf322da-f1b4-4ba1-bb9d-7fb1a8c32fbb.mp4
+
+
+ 
  
 # Method  
    __using httpcanary__
