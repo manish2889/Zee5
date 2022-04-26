@@ -52,11 +52,6 @@
 
 
 
-~~Requirements:~~
-
-   ~~- [x] Ruby~~
-   ~~- [x] Nokogiri~~
-   ~~- [x] libxslt~~
 ~~Usage:~~
 
    ~~For further info read docs below~~
