@@ -6,10 +6,10 @@
 
 # Since a small flaw still exists from 2020 lmao, i will share simple method who actually care about decrypting a encrypted mpd lol 
 # Requirements 
-- [x] apktool
+- [x] apktool (optional)
 - [x] httpcanary (android)
 - [x] charlesproxy (windows)
-- [x] [Via](https://play.google.com/store/apps/details?id=mark.via.gp)
+- [x] [Via](https://play.google.com/store/apps/details?id=mark.via.gp) (optional)
 
 ㅤ
 # Note __(optional)__
@@ -38,7 +38,7 @@
 ![Screenshot_20220425-222924_Termux](https://user-images.githubusercontent.com/62318734/165137508-aa60ed45-3590-45cf-a330-6f79b1d1a248.png)
  
  [![](https://i.imgur.com/a28kDsF_d.webp?maxwidth=760&fidelity=grand)](https://player.vimeo.com/video/702985146?h=6618b4cce9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
-   
+ [![](https://i.imgur.com/AARJDuF_d.webp?maxwidth=760&fidelity=grand)](https://player.vimeo.com/video/702993289?h=6618b4cce9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
 
 ## Features:
 
