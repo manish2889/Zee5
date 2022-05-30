@@ -3,7 +3,7 @@
 
 # FunnyBunnyYT  [Check out My Gaming Channel](https://www.youtube.com/channel/UCSiAsA3JxLZoFx63UTgTS3A?sub_confirmation=1)
 
-## I wont work for this fucking Zee5 so better do it yourself or unstar it 🤨😑
+## I wont work for this fucking Zee5 so better do it yourself coz so many mf leechers taking advantage
 
 ## password for my keystore : BUNNY#
 
