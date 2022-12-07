@@ -7,7 +7,7 @@
 
 ## password for my keystore : BUNNY#
 
-# https://damnzee5.herokuapp.com?v= `link`
+# https://damnzee5.up.railway.app?v= `link`
 ![Screenshot_20220525-083042_Termux](https://user-images.githubusercontent.com/62318734/170170789-14b03b17-e51e-43f9-916d-c1ec0d0fa9f5.png)
 
 ## **work smart LMFAO**
