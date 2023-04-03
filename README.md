@@ -5,8 +5,9 @@
 
 ## password for my keystore : BUNNY#
 
-# https://damnzee5.up.railway.app?v= `link`
-![Screenshot_20220525-083042_Termux](https://user-images.githubusercontent.com/62318734/170170789-14b03b17-e51e-43f9-916d-c1ec0d0fa9f5.png)
+# https://damnz5.herokuapp.com?v= `link`
+![Screenshot_20230403-150730_Termux](https://user-images.githubusercontent.com/62318734/229473764-24e8d4d5-2386-46f6-94d2-5eaf4208dc70.png)
+
 
 ## **work smart LMFAO**
 # Since a small flaw still exists from 2020 lmao, i will share simple method who actually care about decrypting a encrypted mpd lol 
